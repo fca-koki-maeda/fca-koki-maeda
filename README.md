@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=azure" alt="Cloud" />
 </p>
 
-### ☁️ Tools
+### 🎨 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,notion,pr,ps" alt="Tools" />
 </p>
